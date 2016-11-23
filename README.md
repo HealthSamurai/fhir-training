@@ -1,28 +1,43 @@
-# FHIR training Plan
+# FHIR from Scratch
 
-1. History of HL7 standards
+## Problem Space & Dreams
 
- * HL7 v2
- * HL7 v3
- * CDA
- * FHIR
+* iteroperability
 
-2. Other standards 
+## Solution Space
 
- * DICOM
- * OpenEHR
- * IHE Profiles
+* standards
+* community
+* eco-system
 
-3. Interop Paradigms 
+## Unified Language
 
- * Messages
- * Documents
- * REST (Open API)
- 
-4. FHIR Overview 
+* informational model
+* metadata
 
- * Resources
- * Operations
+## Integration Patterns
+
+* REST Architecture
+* Event Driven / Messages
+* Documents
+* Hybrids
+
+
+## History of Health IT standards
+
+* HL7v2
+* HL7v3
+* CDA
+* OpenEHR
+* IHE Profiles
+* FHIR
+
+## FHIR specification
+
+* Resources
+* Operations
+
+
  
 5. Resources
 
@@ -96,4 +111,3 @@
  * Implement simple client
  * Implement simple server
  * Build sample app on top of aidbox
-# fhir-training
